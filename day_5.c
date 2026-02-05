@@ -65,4 +65,4 @@ int main() {
     free(log2);
     
     return 0;
-}
+}// update
