@@ -25,4 +25,4 @@ int main() {
     scanf("%d %d", &a, &b);
     printf("%d", power(a, b));
     return 0;
-}
+}// update
