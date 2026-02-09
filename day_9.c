@@ -28,4 +28,4 @@ int main() {
     scanf("%s", str);
     mirrorString(str);
     return 0;
-}
+}// update
