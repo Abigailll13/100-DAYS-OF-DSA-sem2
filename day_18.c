@@ -45,4 +45,4 @@ int main() {
     rotateArray(arr, n, k);
     
     return 0;
-}
+}// update
